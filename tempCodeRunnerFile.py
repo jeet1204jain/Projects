@@ -1,0 +1,6 @@
+print("So lets start!")
+    time.sleep(1)
+    print("Password: ")
+    print(Password())
+    time.sleep(1)
+    print("Thank You!!!")
