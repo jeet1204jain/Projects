@@ -36,6 +36,5 @@ def Function():
         f.write(date)
         f.write({emply})
         f.write({wd})
-    
 
 Function()
