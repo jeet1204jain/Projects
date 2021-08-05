@@ -16,4 +16,16 @@ Mahadu.name = "Mahadu"
 Yogesh.name = "Yogesh Jadhav"
 
 def Function():
-  
+  print("What do you want to do")
+  print("1. View Data")
+  print("2. Enter Data")
+  wtd = input("Enter: ")
+  print(wtd)
+  if wtd == 1:
+    print("Your Data: ")
+    pass
+  elif wtd == 2:
+    date = input(Enter today's date: ")
+    
+
+Function()
