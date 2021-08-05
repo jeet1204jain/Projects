@@ -1,0 +1,19 @@
+import datetime
+import time
+
+class Employee():
+  Name = ""
+  Salary = 0
+  Work_Done = 0
+
+Azhar = Employee()
+Babloo = Employee()
+Mahadu = Employee()
+Yogesh = Employee()
+Azhar.name = "Azhar Sheikh"
+Babloo.name = "Taj Khan"
+Mahadu.name = "Mahadu"
+Yogesh.name = "Yogesh Jadhav"
+
+def Function():
+  
